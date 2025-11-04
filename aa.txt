@@ -1,0 +1,21 @@
+Grupo:
+* Alireza Firouzja
+* Ding Liren
+* Magnus Carlsen
+* Maxime Vachier-Lagrave
+* Ian Nepomniachtchi
+
+
+Grupo:
+* Fabiano Caruana
+* Hikaru Nakamura
+* Wesley So
+* Anish Giri
+
+
+Jugadores			PTS	J	G	E	P
+Alireza Firouzja --------------	0	0	0	0	0
+Ding Liren --------------------	0	0	0	0	0
+Magnus Carlsen ----------------	0	0	0	0	0
+Maxime Vachier-Lagrave --------	0	0	0	0	0
+Ian Nepomniachtchi ------------	0	0	0	0	0
